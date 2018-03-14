@@ -1,0 +1,3054 @@
+[{
+    "nodeType": 10,
+    "id": 2,
+    "name": "html",
+    "publicId": "",
+    "systemId": ""
+},
+{
+    "nodeType": 1,
+    "id": 3,
+    "tagName": "HTML",
+    "attributes": {
+        "lang": "en"
+    },
+    "childNodes": [{
+        "nodeType": 1,
+        "id": 4,
+        "tagName": "HEAD",
+        "attributes": {},
+        "childNodes": [{
+            "nodeType": 3,
+            "id": 5,
+            "textContent": " "
+        }, {
+            "nodeType": 1,
+            "id": 6,
+            "tagName": "META",
+            "attributes": {
+                "charset": "utf-8"
+            }
+        }, {
+            "nodeType": 3,
+            "id": 7,
+            "textContent": " "
+        }, {
+            "nodeType": 1,
+            "id": 8,
+            "tagName": "TITLE",
+            "attributes": {},
+            "childNodes": [{
+                "nodeType": 3,
+                "id": 9,
+                "textContent": "Demo - Mouseflow - Session Replay, Heatmaps, Funnels, Forms & User Feedback"
+            }]
+        }, {
+            "nodeType": 3,
+            "id": 10,
+            "textContent": " "
+        }, {
+            "nodeType": 1,
+            "id": 11,
+            "tagName": "META",
+            "attributes": {
+                "name": "description",
+                "content": "Try Mouseflow yourself! You'll love our session replay / recording functionality and so much more."
+            }
+        }, {
+            "nodeType": 3,
+            "id": 12,
+            "textContent": " "
+        }, {
+            "nodeType": 1,
+            "id": 13,
+            "tagName": "META",
+            "attributes": {
+                "name": "viewport",
+                "content": "width=device-width, initial-scale=0.9"
+            }
+        }, {
+            "nodeType": 3,
+            "id": 14,
+            "textContent": " "
+        }, {
+            "nodeType": 1,
+            "id": 15,
+            "tagName": "LINK",
+            "attributes": {
+                "rel": "canonical",
+                "href": "https://mouseflow.com/demo/"
+            }
+        }, {
+            "nodeType": 3,
+            "id": 16,
+            "textContent": " "
+        }, {
+            "nodeType": 1,
+            "id": 17,
+            "tagName": "META",
+            "attributes": {
+                "property": "og:title",
+                "content": "Demo"
+            }
+        }, {
+            "nodeType": 3,
+            "id": 18,
+            "textContent": " "
+        }, {
+            "nodeType": 1,
+            "id": 19,
+            "tagName": "META",
+            "attributes": {
+                "property": "og:type",
+                "content": "demo"
+            }
+        }, {
+            "nodeType": 3,
+            "id": 20,
+            "textContent": " "
+        }, {
+            "nodeType": 1,
+            "id": 21,
+            "tagName": "META",
+            "attributes": {
+                "property": "og:url",
+                "content": "https://mouseflow.com/demo/"
+            }
+        }, {
+            "nodeType": 3,
+            "id": 22,
+            "textContent": " "
+        }, {
+            "nodeType": 1,
+            "id": 23,
+            "tagName": "META",
+            "attributes": {
+                "property": "og:image",
+                "content": "https://mouseflow.com/static/img/mouseflow_logo.png"
+            }
+        }, {
+            "nodeType": 3,
+            "id": 24,
+            "textContent": " "
+        }, {
+            "nodeType": 1,
+            "id": 25,
+            "tagName": "META",
+            "attributes": {
+                "property": "og:site_name",
+                "content": "Mouseflow"
+            }
+        }, {
+            "nodeType": 3,
+            "id": 26,
+            "textContent": " "
+        }, {
+            "nodeType": 1,
+            "id": 27,
+            "tagName": "META",
+            "attributes": {
+                "name": "twitter:card",
+                "content": "summary"
+            }
+        }, {
+            "nodeType": 3,
+            "id": 28,
+            "textContent": " "
+        }, {
+            "nodeType": 1,
+            "id": 29,
+            "tagName": "META",
+            "attributes": {
+                "name": "twitter:site",
+                "content": "@mouseflow"
+            }
+        }, {
+            "nodeType": 3,
+            "id": 30,
+            "textContent": " "
+        }, {
+            "nodeType": 1,
+            "id": 31,
+            "tagName": "META",
+            "attributes": {
+                "name": "twitter:title",
+                "content": "Demo"
+            }
+        }, {
+            "nodeType": 3,
+            "id": 32,
+            "textContent": " "
+        }, {
+            "nodeType": 1,
+            "id": 33,
+            "tagName": "META",
+            "attributes": {
+                "name": "twitter:description",
+                "content": "Mouseflow is the most popular session replay / recording and website heatmap tool. Sign up today or call +1 (855) 668-7335 for a personal demonstration!"
+            }
+        }, {
+            "nodeType": 3,
+            "id": 34,
+            "textContent": " "
+        }, {
+            "nodeType": 1,
+            "id": 35,
+            "tagName": "LINK",
+            "attributes": {
+                "href": "https://cdn.mouseflow.net/static/css/bootstrap.css",
+                "rel": "stylesheet",
+                "type": "text/css",
+                "media": "all"
+            }
+        }, {
+            "nodeType": 3,
+            "id": 36,
+            "textContent": " "
+        }, {
+            "nodeType": 1,
+            "id": 37,
+            "tagName": "LINK",
+            "attributes": {
+                "href": "https://cdn.mouseflow.net/static/css/cookie-consent.css",
+                "rel": "stylesheet",
+                "type": "text/css",
+                "media": "all"
+            }
+        }, {
+            "nodeType": 3,
+            "id": 38,
+            "textContent": " "
+        }, {
+            "nodeType": 1,
+            "id": 39,
+            "tagName": "LINK",
+            "attributes": {
+                "href": "https://cdn.mouseflow.net/static/css/themify-icons.css",
+                "rel": "stylesheet",
+                "type": "text/css",
+                "media": "all"
+            }
+        }, {
+            "nodeType": 3,
+            "id": 40,
+            "textContent": " "
+        }, {
+            "nodeType": 1,
+            "id": 41,
+            "tagName": "LINK",
+            "attributes": {
+                "href": "https://cdn.mouseflow.net/static/css/theme.css",
+                "rel": "stylesheet",
+                "type": "text/css",
+                "media": "all"
+            }
+        }, {
+            "nodeType": 3,
+            "id": 42,
+            "textContent": " "
+        }, {
+            "nodeType": 1,
+            "id": 43,
+            "tagName": "LINK",
+            "attributes": {
+                "href": "https://cdn.mouseflow.net/static/css/formValidation.min.css",
+                "rel": "stylesheet",
+                "type": "text/css",
+                "media": "all"
+            }
+        }, {
+            "nodeType": 3,
+            "id": 44,
+            "textContent": " "
+        }, {
+            "nodeType": 1,
+            "id": 45,
+            "tagName": "LINK",
+            "attributes": {
+                "href": "//fonts.googleapis.com/css?family=Lato:300,400%7CRaleway:100,400,300,500,600,700%7COpen+Sans:400,500,600",
+                "rel": "stylesheet",
+                "type": "text/css"
+            }
+        }, {
+            "nodeType": 3,
+            "id": 46,
+            "textContent": " "
+        }, {
+            "nodeType": 1,
+            "id": 47,
+            "tagName": "LINK",
+            "attributes": {
+                "href": "https://cdn.mouseflow.net/static/css/custom.css?2",
+                "rel": "stylesheet",
+                "type": "text/css",
+                "media": "all"
+            }
+        }, {
+            "nodeType": 3,
+            "id": 48,
+            "textContent": " "
+        }, {
+            "nodeType": 1,
+            "id": 49,
+            "tagName": "LINK",
+            "attributes": {
+                "rel": "shortcut icon",
+                "href": "https://cdn.mouseflow.net/static/img/favicon.ico"
+            }
+        }, {
+            "nodeType": 3,
+            "id": 50,
+            "textContent": " "
+        }, {
+            "nodeType": 1,
+            "id": 51,
+            "tagName": "SCRIPT"
+        }, {
+            "nodeType": 1,
+            "id": 52,
+            "tagName": "SCRIPT"
+        }, {
+            "nodeType": 1,
+            "id": 53,
+            "tagName": "SCRIPT"
+        }, {
+            "nodeType": 3,
+            "id": 54,
+            "textContent": " "
+        }, {
+            "nodeType": 1,
+            "id": 55,
+            "tagName": "SCRIPT"
+        }]
+    }, {
+        "nodeType": 3,
+        "id": 56,
+        "textContent": " "
+    }, {
+        "nodeType": 1,
+        "id": 57,
+        "tagName": "BODY",
+        "attributes": {
+            "class": "nav-is-overlay"
+        },
+        "childNodes": [{
+            "nodeType": 3,
+            "id": 58,
+            "textContent": " "
+        }, {
+            "nodeType": 8,
+            "id": 59
+        }, {
+            "nodeType": 3,
+            "id": 60,
+            "textContent": " "
+        }, {
+            "nodeType": 1,
+            "id": 61,
+            "tagName": "NOSCRIPT",
+            "attributes": {},
+            "childNodes": [{
+                "nodeType": 3,
+                "id": 62,
+                "textContent": "<iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-TGBLDV\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe>"
+            }]
+        }, {
+            "nodeType": 3,
+            "id": 63,
+            "textContent": " "
+        }, {
+            "nodeType": 1,
+            "id": 64,
+            "tagName": "SCRIPT"
+        }, {
+            "nodeType": 3,
+            "id": 65,
+            "textContent": " "
+        }, {
+            "nodeType": 8,
+            "id": 66
+        }, {
+            "nodeType": 3,
+            "id": 67,
+            "textContent": " "
+        }, {
+            "nodeType": 1,
+            "id": 68,
+            "tagName": "DIV",
+            "attributes": {
+                "class": "nav-container"
+            },
+            "childNodes": [{
+                "nodeType": 3,
+                "id": 69,
+                "textContent": " "
+            }, {
+                "nodeType": 1,
+                "id": 70,
+                "tagName": "A",
+                "attributes": {
+                    "id": "top"
+                }
+            }, {
+                "nodeType": 3,
+                "id": 71,
+                "textContent": " "
+            }, {
+                "nodeType": 1,
+                "id": 72,
+                "tagName": "NAV",
+                "attributes": {
+                    "class": "absolute transparent sticky-header"
+                },
+                "childNodes": [{
+                    "nodeType": 3,
+                    "id": 73,
+                    "textContent": " "
+                }, {
+                    "nodeType": 1,
+                    "id": 74,
+                    "tagName": "DIV",
+                    "attributes": {
+                        "class": "nav-bar"
+                    },
+                    "childNodes": [{
+                        "nodeType": 3,
+                        "id": 75,
+                        "textContent": " "
+                    }, {
+                        "nodeType": 1,
+                        "id": 76,
+                        "tagName": "DIV",
+                        "attributes": {
+                            "class": "module left"
+                        },
+                        "childNodes": [{
+                            "nodeType": 3,
+                            "id": 77,
+                            "textContent": " "
+                        }, {
+                            "nodeType": 1,
+                            "id": 78,
+                            "tagName": "A",
+                            "attributes": {
+                                "href": "/"
+                            },
+                            "childNodes": [{
+                                "nodeType": 3,
+                                "id": 79,
+                                "textContent": " "
+                            }, {
+                                "nodeType": 1,
+                                "id": 80,
+                                "tagName": "IMG",
+                                "attributes": {
+                                    "class": "logo logo-light",
+                                    "alt": "Mouseflow",
+                                    "src": "https://cdn.mouseflow.net/static/img/logo-light-small.png"
+                                }
+                            }, {
+                                "nodeType": 3,
+                                "id": 81,
+                                "textContent": " "
+                            }, {
+                                "nodeType": 1,
+                                "id": 82,
+                                "tagName": "IMG",
+                                "attributes": {
+                                    "class": "logo logo-dark",
+                                    "alt": "Mouseflow",
+                                    "src": "https://cdn.mouseflow.net/static/img/logo-dark-small.png"
+                                }
+                            }, {
+                                "nodeType": 3,
+                                "id": 83,
+                                "textContent": " "
+                            }]
+                        }, {
+                            "nodeType": 3,
+                            "id": 84,
+                            "textContent": " "
+                        }]
+                    }, {
+                        "nodeType": 3,
+                        "id": 85,
+                        "textContent": " "
+                    }, {
+                        "nodeType": 1,
+                        "id": 86,
+                        "tagName": "DIV",
+                        "attributes": {
+                            "class": "module widget-handle mobile-toggle right visible-sm visible-xs"
+                        },
+                        "childNodes": [{
+                            "nodeType": 3,
+                            "id": 87,
+                            "textContent": " "
+                        }, {
+                            "nodeType": 1,
+                            "id": 88,
+                            "tagName": "I",
+                            "attributes": {
+                                "class": "ti-menu"
+                            }
+                        }, {
+                            "nodeType": 3,
+                            "id": 89,
+                            "textContent": " "
+                        }]
+                    }, {
+                        "nodeType": 3,
+                        "id": 90,
+                        "textContent": " "
+                    }, {
+                        "nodeType": 1,
+                        "id": 91,
+                        "tagName": "DIV",
+                        "attributes": {
+                            "class": "module-group right"
+                        },
+                        "childNodes": [{
+                            "nodeType": 3,
+                            "id": 92,
+                            "textContent": " "
+                        }, {
+                            "nodeType": 1,
+                            "id": 93,
+                            "tagName": "DIV",
+                            "attributes": {
+                                "class": "module left"
+                            },
+                            "childNodes": [{
+                                "nodeType": 3,
+                                "id": 94,
+                                "textContent": " "
+                            }, {
+                                "nodeType": 1,
+                                "id": 95,
+                                "tagName": "UL",
+                                "attributes": {
+                                    "class": "menu text-center"
+                                },
+                                "childNodes": [{
+                                    "nodeType": 3,
+                                    "id": 96,
+                                    "textContent": " "
+                                }, {
+                                    "nodeType": 8,
+                                    "id": 97
+                                }, {
+                                    "nodeType": 3,
+                                    "id": 98,
+                                    "textContent": " "
+                                }, {
+                                    "nodeType": 1,
+                                    "id": 99,
+                                    "tagName": "LI",
+                                    "attributes": {},
+                                    "childNodes": [{
+                                        "nodeType": 3,
+                                        "id": 100,
+                                        "textContent": " "
+                                    }, {
+                                        "nodeType": 1,
+                                        "id": 101,
+                                        "tagName": "A",
+                                        "attributes": {
+                                            "href": "/tour/"
+                                        },
+                                        "childNodes": [{
+                                            "nodeType": 3,
+                                            "id": 102,
+                                            "textContent": " Tour "
+                                        }]
+                                    }, {
+                                        "nodeType": 3,
+                                        "id": 103,
+                                        "textContent": " "
+                                    }]
+                                }, {
+                                    "nodeType": 3,
+                                    "id": 104,
+                                    "textContent": " "
+                                }, {
+                                    "nodeType": 1,
+                                    "id": 105,
+                                    "tagName": "LI",
+                                    "attributes": {},
+                                    "childNodes": [{
+                                        "nodeType": 3,
+                                        "id": 106,
+                                        "textContent": " "
+                                    }, {
+                                        "nodeType": 1,
+                                        "id": 107,
+                                        "tagName": "A",
+                                        "attributes": {
+                                            "href": "/demo/"
+                                        },
+                                        "childNodes": [{
+                                            "nodeType": 3,
+                                            "id": 108,
+                                            "textContent": " Demo "
+                                        }]
+                                    }, {
+                                        "nodeType": 3,
+                                        "id": 109,
+                                        "textContent": " "
+                                    }]
+                                }, {
+                                    "nodeType": 3,
+                                    "id": 110,
+                                    "textContent": " "
+                                }, {
+                                    "nodeType": 1,
+                                    "id": 111,
+                                    "tagName": "LI",
+                                    "attributes": {},
+                                    "childNodes": [{
+                                        "nodeType": 3,
+                                        "id": 112,
+                                        "textContent": " "
+                                    }, {
+                                        "nodeType": 1,
+                                        "id": 113,
+                                        "tagName": "A",
+                                        "attributes": {
+                                            "href": "/clients/"
+                                        },
+                                        "childNodes": [{
+                                            "nodeType": 3,
+                                            "id": 114,
+                                            "textContent": " Clients "
+                                        }]
+                                    }, {
+                                        "nodeType": 3,
+                                        "id": 115,
+                                        "textContent": " "
+                                    }]
+                                }, {
+                                    "nodeType": 3,
+                                    "id": 116,
+                                    "textContent": " "
+                                }, {
+                                    "nodeType": 1,
+                                    "id": 117,
+                                    "tagName": "LI",
+                                    "attributes": {},
+                                    "childNodes": [{
+                                        "nodeType": 3,
+                                        "id": 118,
+                                        "textContent": " "
+                                    }, {
+                                        "nodeType": 1,
+                                        "id": 119,
+                                        "tagName": "A",
+                                        "attributes": {
+                                            "href": "/pricing/"
+                                        },
+                                        "childNodes": [{
+                                            "nodeType": 3,
+                                            "id": 120,
+                                            "textContent": " Pricing "
+                                        }]
+                                    }, {
+                                        "nodeType": 3,
+                                        "id": 121,
+                                        "textContent": " "
+                                    }]
+                                }, {
+                                    "nodeType": 3,
+                                    "id": 122,
+                                    "textContent": " "
+                                }, {
+                                    "nodeType": 1,
+                                    "id": 123,
+                                    "tagName": "LI",
+                                    "attributes": {},
+                                    "childNodes": [{
+                                        "nodeType": 3,
+                                        "id": 124,
+                                        "textContent": " "
+                                    }, {
+                                        "nodeType": 1,
+                                        "id": 125,
+                                        "tagName": "A",
+                                        "attributes": {
+                                            "href": "/blog"
+                                        },
+                                        "childNodes": [{
+                                            "nodeType": 3,
+                                            "id": 126,
+                                            "textContent": " Blog "
+                                        }]
+                                    }, {
+                                        "nodeType": 3,
+                                        "id": 127,
+                                        "textContent": " "
+                                    }]
+                                }, {
+                                    "nodeType": 3,
+                                    "id": 128,
+                                    "textContent": " "
+                                }, {
+                                    "nodeType": 1,
+                                    "id": 129,
+                                    "tagName": "LI",
+                                    "attributes": {},
+                                    "childNodes": [{
+                                        "nodeType": 3,
+                                        "id": 130,
+                                        "textContent": " "
+                                    }, {
+                                        "nodeType": 1,
+                                        "id": 131,
+                                        "tagName": "A",
+                                        "attributes": {
+                                            "href": "/contact/"
+                                        },
+                                        "childNodes": [{
+                                            "nodeType": 3,
+                                            "id": 132,
+                                            "textContent": " Contact "
+                                        }]
+                                    }, {
+                                        "nodeType": 3,
+                                        "id": 133,
+                                        "textContent": " "
+                                    }]
+                                }, {
+                                    "nodeType": 3,
+                                    "id": 134,
+                                    "textContent": " "
+                                }]
+                            }, {
+                                "nodeType": 3,
+                                "id": 135,
+                                "textContent": " "
+                            }]
+                        }, {
+                            "nodeType": 3,
+                            "id": 136,
+                            "textContent": " "
+                        }, {
+                            "nodeType": 1,
+                            "id": 137,
+                            "tagName": "DIV",
+                            "attributes": {
+                                "class": "module widget-handle sub-menu left"
+                            },
+                            "childNodes": [{
+                                "nodeType": 3,
+                                "id": 138,
+                                "textContent": " "
+                            }, {
+                                "nodeType": 1,
+                                "id": 139,
+                                "tagName": "UL",
+                                "attributes": {
+                                    "class": "menu text-center"
+                                },
+                                "childNodes": [{
+                                    "nodeType": 3,
+                                    "id": 140,
+                                    "textContent": " "
+                                }, {
+                                    "nodeType": 1,
+                                    "id": 141,
+                                    "tagName": "LI",
+                                    "attributes": {},
+                                    "childNodes": [{
+                                        "nodeType": 3,
+                                        "id": 142,
+                                        "textContent": " "
+                                    }, {
+                                        "nodeType": 1,
+                                        "id": 143,
+                                        "tagName": "A",
+                                        "attributes": {
+                                            "href": "https://app.mouseflow.com/sign-in"
+                                        },
+                                        "childNodes": [{
+                                            "nodeType": 3,
+                                            "id": 144,
+                                            "textContent": "Log In"
+                                        }]
+                                    }, {
+                                        "nodeType": 3,
+                                        "id": 145,
+                                        "textContent": " "
+                                    }]
+                                }, {
+                                    "nodeType": 3,
+                                    "id": 146,
+                                    "textContent": " "
+                                }, {
+                                    "nodeType": 1,
+                                    "id": 147,
+                                    "tagName": "LI",
+                                    "attributes": {
+                                        "class": "green"
+                                    },
+                                    "childNodes": [{
+                                        "nodeType": 3,
+                                        "id": 148,
+                                        "textContent": " "
+                                    }, {
+                                        "nodeType": 1,
+                                        "id": 149,
+                                        "tagName": "A",
+                                        "attributes": {
+                                            "href": "/sign-up/"
+                                        },
+                                        "childNodes": [{
+                                            "nodeType": 3,
+                                            "id": 150,
+                                            "textContent": "Join for Free"
+                                        }]
+                                    }, {
+                                        "nodeType": 3,
+                                        "id": 151,
+                                        "textContent": " "
+                                    }]
+                                }, {
+                                    "nodeType": 3,
+                                    "id": 152,
+                                    "textContent": " "
+                                }]
+                            }, {
+                                "nodeType": 3,
+                                "id": 153,
+                                "textContent": " "
+                            }]
+                        }, {
+                            "nodeType": 3,
+                            "id": 154,
+                            "textContent": " "
+                        }]
+                    }, {
+                        "nodeType": 3,
+                        "id": 155,
+                        "textContent": " "
+                    }, {
+                        "nodeType": 8,
+                        "id": 156
+                    }, {
+                        "nodeType": 3,
+                        "id": 157,
+                        "textContent": " "
+                    }]
+                }, {
+                    "nodeType": 3,
+                    "id": 158,
+                    "textContent": " "
+                }]
+            }, {
+                "nodeType": 3,
+                "id": 159,
+                "textContent": " "
+            }]
+        }, {
+            "nodeType": 3,
+            "id": 160,
+            "textContent": " "
+        }, {
+            "nodeType": 1,
+            "id": 161,
+            "tagName": "DIV",
+            "attributes": {
+                "class": "main-container"
+            },
+            "childNodes": [{
+                "nodeType": 3,
+                "id": 162,
+                "textContent": " "
+            }, {
+                "nodeType": 1,
+                "id": 163,
+                "tagName": "SECTION",
+                "attributes": {
+                    "class": "page-title page-title-3 extending parallax image-bg overlay overlay-heavy"
+                },
+                "childNodes": [{
+                    "nodeType": 3,
+                    "id": 164,
+                    "textContent": " "
+                }, {
+                    "nodeType": 1,
+                    "id": 165,
+                    "tagName": "DIV",
+                    "attributes": {
+                        "class": "background-image-holder fadeIn",
+                        "style": "transform: translate3d(0px, 0px, 0px); background: url(\"https://cdn.mouseflow.net/static/img/demo.jpg\");"
+                    },
+                    "childNodes": [{
+                        "nodeType": 3,
+                        "id": 166,
+                        "textContent": " "
+                    }, {
+                        "nodeType": 1,
+                        "id": 167,
+                        "tagName": "IMG",
+                        "attributes": {
+                            "alt": "image",
+                            "class": "background-image",
+                            "src": "https://cdn.mouseflow.net/static/img/demo.jpg",
+                            "style": "display: none;"
+                        }
+                    }, {
+                        "nodeType": 3,
+                        "id": 168,
+                        "textContent": " "
+                    }]
+                }, {
+                    "nodeType": 3,
+                    "id": 169,
+                    "textContent": " "
+                }, {
+                    "nodeType": 1,
+                    "id": 170,
+                    "tagName": "DIV",
+                    "attributes": {
+                        "class": "container"
+                    },
+                    "childNodes": [{
+                        "nodeType": 3,
+                        "id": 171,
+                        "textContent": " "
+                    }, {
+                        "nodeType": 1,
+                        "id": 172,
+                        "tagName": "DIV",
+                        "attributes": {
+                            "class": "row"
+                        },
+                        "childNodes": [{
+                            "nodeType": 3,
+                            "id": 173,
+                            "textContent": " "
+                        }, {
+                            "nodeType": 1,
+                            "id": 174,
+                            "tagName": "DIV",
+                            "attributes": {
+                                "class": "col-md-10 col-md-offset-1 text-center"
+                            },
+                            "childNodes": [{
+                                "nodeType": 3,
+                                "id": 175,
+                                "textContent": " "
+                            }, {
+                                "nodeType": 1,
+                                "id": 176,
+                                "tagName": "H1",
+                                "attributes": {
+                                    "class": "light mb10"
+                                },
+                                "childNodes": [{
+                                    "nodeType": 3,
+                                    "id": 177,
+                                    "textContent": "Try Mouseflow Yourself"
+                                }]
+                            }, {
+                                "nodeType": 3,
+                                "id": 178,
+                                "textContent": " "
+                            }]
+                        }, {
+                            "nodeType": 3,
+                            "id": 179,
+                            "textContent": " "
+                        }]
+                    }, {
+                        "nodeType": 3,
+                        "id": 180,
+                        "textContent": " "
+                    }, {
+                        "nodeType": 1,
+                        "id": 181,
+                        "tagName": "DIV",
+                        "attributes": {
+                            "class": "row"
+                        },
+                        "childNodes": [{
+                            "nodeType": 3,
+                            "id": 182,
+                            "textContent": " "
+                        }, {
+                            "nodeType": 1,
+                            "id": 183,
+                            "tagName": "DIV",
+                            "attributes": {
+                                "class": "col-md-8 col-md-offset-2"
+                            },
+                            "childNodes": [{
+                                "nodeType": 3,
+                                "id": 184,
+                                "textContent": " "
+                            }, {
+                                "nodeType": 1,
+                                "id": 185,
+                                "tagName": "DIV",
+                                "attributes": {
+                                    "class": "recording-status"
+                                },
+                                "childNodes": [{
+                                    "nodeType": 1,
+                                    "id": 186,
+                                    "tagName": "SPAN",
+                                    "attributes": {
+                                        "class": "flasher"
+                                    }
+                                }]
+                            }, {
+                                "nodeType": 3,
+                                "id": 187,
+                                "textContent": " "
+                            }]
+                        }, {
+                            "nodeType": 3,
+                            "id": 188,
+                            "textContent": " "
+                        }]
+                    }, {
+                        "nodeType": 3,
+                        "id": 189,
+                        "textContent": " "
+                    }]
+                }, {
+                    "nodeType": 3,
+                    "id": 190,
+                    "textContent": " "
+                }]
+            }, {
+                "nodeType": 3,
+                "id": 191,
+                "textContent": " "
+            }, {
+                "nodeType": 1,
+                "id": 192,
+                "tagName": "SECTION",
+                "attributes": {
+                    "class": "pt64"
+                },
+                "childNodes": [{
+                    "nodeType": 3,
+                    "id": 193,
+                    "textContent": " "
+                }, {
+                    "nodeType": 1,
+                    "id": 194,
+                    "tagName": "DIV",
+                    "attributes": {
+                        "class": "container"
+                    },
+                    "childNodes": [{
+                        "nodeType": 3,
+                        "id": 195,
+                        "textContent": " "
+                    }, {
+                        "nodeType": 1,
+                        "id": 196,
+                        "tagName": "DIV",
+                        "attributes": {
+                            "class": "row"
+                        },
+                        "childNodes": [{
+                            "nodeType": 3,
+                            "id": 197,
+                            "textContent": " "
+                        }, {
+                            "nodeType": 1,
+                            "id": 198,
+                            "tagName": "DIV",
+                            "attributes": {
+                                "class": "col-md-4 col-md-offset-4 text-center mb40"
+                            },
+                            "childNodes": [{
+                                "nodeType": 3,
+                                "id": 199,
+                                "textContent": " "
+                            }, {
+                                "nodeType": 1,
+                                "id": 200,
+                                "tagName": "A",
+                                "attributes": {
+                                    "class": "mb0",
+                                    "href": "https://cdn.mouseflow.net/static/mouseflow_brochure_1.pdf",
+                                    "target": "_blank"
+                                },
+                                "childNodes": [{
+                                    "nodeType": 1,
+                                    "id": 201,
+                                    "tagName": "I",
+                                    "attributes": {
+                                        "class": "ti-cloud-down"
+                                    }
+                                }, {
+                                    "nodeType": 3,
+                                    "id": 202,
+                                    "textContent": " Download Brochure (PDF)"
+                                }]
+                            }, {
+                                "nodeType": 3,
+                                "id": 203,
+                                "textContent": " "
+                            }]
+                        }, {
+                            "nodeType": 3,
+                            "id": 204,
+                            "textContent": " "
+                        }]
+                    }, {
+                        "nodeType": 3,
+                        "id": 205,
+                        "textContent": " "
+                    }, {
+                        "nodeType": 1,
+                        "id": 206,
+                        "tagName": "DIV",
+                        "attributes": {
+                            "class": "row"
+                        },
+                        "childNodes": [{
+                            "nodeType": 3,
+                            "id": 207,
+                            "textContent": " "
+                        }, {
+                            "nodeType": 1,
+                            "id": 208,
+                            "tagName": "DIV",
+                            "attributes": {
+                                "class": "col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1"
+                            },
+                            "childNodes": [{
+                                "nodeType": 3,
+                                "id": 209,
+                                "textContent": " "
+                            }, {
+                                "nodeType": 1,
+                                "id": 210,
+                                "tagName": "DIV",
+                                "attributes": {
+                                    "class": "feature boxed bg-secondary demo"
+                                },
+                                "childNodes": [{
+                                    "nodeType": 3,
+                                    "id": 211,
+                                    "textContent": " "
+                                }, {
+                                    "nodeType": 1,
+                                    "id": 212,
+                                    "tagName": "FORM",
+                                    "attributes": {
+                                        "id": "demo",
+                                        "class": "text-center form-email"
+                                    },
+                                    "childNodes": [{
+                                        "nodeType": 3,
+                                        "id": 213,
+                                        "textContent": " "
+                                    }, {
+                                        "nodeType": 1,
+                                        "id": 214,
+                                        "tagName": "DIV",
+                                        "attributes": {
+                                            "class": "overflow-hidden"
+                                        },
+                                        "childNodes": [{
+                                            "nodeType": 3,
+                                            "id": 215,
+                                            "textContent": " "
+                                        }, {
+                                            "nodeType": 1,
+                                            "id": 216,
+                                            "tagName": "SPAN",
+                                            "attributes": {
+                                                "class": "step center-block"
+                                            },
+                                            "childNodes": [{
+                                                "nodeType": 3,
+                                                "id": 217,
+                                                "textContent": "1"
+                                            }]
+                                        }, {
+                                            "nodeType": 3,
+                                            "id": 218,
+                                            "textContent": " "
+                                        }, {
+                                            "nodeType": 1,
+                                            "id": 219,
+                                            "tagName": "H3",
+                                            "attributes": {},
+                                            "childNodes": [{
+                                                "nodeType": 3,
+                                                "id": 220,
+                                                "textContent": "Mouse Movement"
+                                            }]
+                                        }, {
+                                            "nodeType": 3,
+                                            "id": 221,
+                                            "textContent": " "
+                                        }, {
+                                            "nodeType": 1,
+                                            "id": 222,
+                                            "tagName": "P",
+                                            "attributes": {
+                                                "class": "mb32"
+                                            },
+                                            "childNodes": [{
+                                                "nodeType": 3,
+                                                "id": 223,
+                                                "textContent": "Move your cursor around. Mouseflow is recording all your mouse movements."
+                                            }]
+                                        }, {
+                                            "nodeType": 3,
+                                            "id": 224,
+                                            "textContent": " "
+                                        }, {
+                                            "nodeType": 1,
+                                            "id": 225,
+                                            "tagName": "HR",
+                                            "attributes": {}
+                                        }, {
+                                            "nodeType": 3,
+                                            "id": 226,
+                                            "textContent": " "
+                                        }]
+                                    }, {
+                                        "nodeType": 3,
+                                        "id": 227,
+                                        "textContent": " "
+                                    }, {
+                                        "nodeType": 1,
+                                        "id": 228,
+                                        "tagName": "DIV",
+                                        "attributes": {
+                                            "class": "overflow-hidden"
+                                        },
+                                        "childNodes": [{
+                                            "nodeType": 3,
+                                            "id": 229,
+                                            "textContent": " "
+                                        }, {
+                                            "nodeType": 1,
+                                            "id": 230,
+                                            "tagName": "SPAN",
+                                            "attributes": {
+                                                "class": "step center-block"
+                                            },
+                                            "childNodes": [{
+                                                "nodeType": 3,
+                                                "id": 231,
+                                                "textContent": "2"
+                                            }]
+                                        }, {
+                                            "nodeType": 3,
+                                            "id": 232,
+                                            "textContent": " "
+                                        }, {
+                                            "nodeType": 1,
+                                            "id": 233,
+                                            "tagName": "H3",
+                                            "attributes": {},
+                                            "childNodes": [{
+                                                "nodeType": 3,
+                                                "id": 234,
+                                                "textContent": "Clicks"
+                                            }]
+                                        }, {
+                                            "nodeType": 3,
+                                            "id": 235,
+                                            "textContent": " "
+                                        }, {
+                                            "nodeType": 1,
+                                            "id": 236,
+                                            "tagName": "P",
+                                            "attributes": {
+                                                "class": "mb32"
+                                            },
+                                            "childNodes": [{
+                                                "nodeType": 3,
+                                                "id": 237,
+                                                "textContent": "Click on the elements below. Then, click somewhere else on the page. Mouseflow is tracking all your clicks."
+                                            }]
+                                        }, {
+                                            "nodeType": 3,
+                                            "id": 238,
+                                            "textContent": " "
+                                        }, {
+                                            "nodeType": 1,
+                                            "id": 239,
+                                            "tagName": "DIV",
+                                            "attributes": {
+                                                "class": "col-sm-4"
+                                            },
+                                            "childNodes": [{
+                                                "nodeType": 3,
+                                                "id": 240,
+                                                "textContent": " "
+                                            }, {
+                                                "nodeType": 1,
+                                                "id": 241,
+                                                "tagName": "A",
+                                                "attributes": {
+                                                    "href": "javascript:void(0);",
+                                                    "class": "btn btn-dark"
+                                                },
+                                                "childNodes": [{
+                                                    "nodeType": 3,
+                                                    "id": 242,
+                                                    "textContent": "Click Me"
+                                                }]
+                                            }, {
+                                                "nodeType": 3,
+                                                "id": 243,
+                                                "textContent": " "
+                                            }]
+                                        }, {
+                                            "nodeType": 3,
+                                            "id": 244,
+                                            "textContent": " "
+                                        }, {
+                                            "nodeType": 1,
+                                            "id": 245,
+                                            "tagName": "DIV",
+                                            "attributes": {
+                                                "class": "col-sm-4"
+                                            },
+                                            "childNodes": [{
+                                                "nodeType": 3,
+                                                "id": 246,
+                                                "textContent": " "
+                                            }, {
+                                                "nodeType": 1,
+                                                "id": 247,
+                                                "tagName": "A",
+                                                "attributes": {
+                                                    "href": "javascript:void(0);",
+                                                    "class": "btn btn-dark"
+                                                },
+                                                "childNodes": [{
+                                                    "nodeType": 3,
+                                                    "id": 248,
+                                                    "textContent": "Click Me Too"
+                                                }]
+                                            }, {
+                                                "nodeType": 3,
+                                                "id": 249,
+                                                "textContent": " "
+                                            }]
+                                        }, {
+                                            "nodeType": 3,
+                                            "id": 250,
+                                            "textContent": " "
+                                        }, {
+                                            "nodeType": 1,
+                                            "id": 251,
+                                            "tagName": "DIV",
+                                            "attributes": {
+                                                "class": "col-sm-4"
+                                            },
+                                            "childNodes": [{
+                                                "nodeType": 3,
+                                                "id": 252,
+                                                "textContent": " "
+                                            }, {
+                                                "nodeType": 1,
+                                                "id": 253,
+                                                "tagName": "A",
+                                                "attributes": {
+                                                    "class": "inline-block pb16",
+                                                    "href": "javascript:void(0);"
+                                                },
+                                                "childNodes": [{
+                                                    "nodeType": 3,
+                                                    "id": 254,
+                                                    "textContent": "Try Me, As Well"
+                                                }]
+                                            }, {
+                                                "nodeType": 3,
+                                                "id": 255,
+                                                "textContent": " "
+                                            }]
+                                        }, {
+                                            "nodeType": 3,
+                                            "id": 256,
+                                            "textContent": " "
+                                        }, {
+                                            "nodeType": 1,
+                                            "id": 257,
+                                            "tagName": "HR",
+                                            "attributes": {}
+                                        }, {
+                                            "nodeType": 3,
+                                            "id": 258,
+                                            "textContent": " "
+                                        }]
+                                    }, {
+                                        "nodeType": 3,
+                                        "id": 259,
+                                        "textContent": " "
+                                    }, {
+                                        "nodeType": 1,
+                                        "id": 260,
+                                        "tagName": "DIV",
+                                        "attributes": {
+                                            "class": "overflow-hidden"
+                                        },
+                                        "childNodes": [{
+                                            "nodeType": 3,
+                                            "id": 261,
+                                            "textContent": " "
+                                        }, {
+                                            "nodeType": 1,
+                                            "id": 262,
+                                            "tagName": "SPAN",
+                                            "attributes": {
+                                                "class": "step center-block"
+                                            },
+                                            "childNodes": [{
+                                                "nodeType": 3,
+                                                "id": 263,
+                                                "textContent": "3"
+                                            }]
+                                        }, {
+                                            "nodeType": 3,
+                                            "id": 264,
+                                            "textContent": " "
+                                        }, {
+                                            "nodeType": 1,
+                                            "id": 265,
+                                            "tagName": "H3",
+                                            "attributes": {},
+                                            "childNodes": [{
+                                                "nodeType": 3,
+                                                "id": 266,
+                                                "textContent": "Scrolling"
+                                            }]
+                                        }, {
+                                            "nodeType": 3,
+                                            "id": 267,
+                                            "textContent": " "
+                                        }, {
+                                            "nodeType": 1,
+                                            "id": 268,
+                                            "tagName": "P",
+                                            "attributes": {
+                                                "class": "mb32"
+                                            },
+                                            "childNodes": [{
+                                                "nodeType": 3,
+                                                "id": 269,
+                                                "textContent": "Scroll up and down on the page. Mouseflow is recording all your scroll activity."
+                                            }]
+                                        }, {
+                                            "nodeType": 3,
+                                            "id": 270,
+                                            "textContent": " "
+                                        }, {
+                                            "nodeType": 1,
+                                            "id": 271,
+                                            "tagName": "HR",
+                                            "attributes": {}
+                                        }, {
+                                            "nodeType": 3,
+                                            "id": 272,
+                                            "textContent": " "
+                                        }]
+                                    }, {
+                                        "nodeType": 3,
+                                        "id": 273,
+                                        "textContent": " "
+                                    }, {
+                                        "nodeType": 1,
+                                        "id": 274,
+                                        "tagName": "DIV",
+                                        "attributes": {
+                                            "class": "overflow-hidden"
+                                        },
+                                        "childNodes": [{
+                                            "nodeType": 3,
+                                            "id": 275,
+                                            "textContent": " "
+                                        }, {
+                                            "nodeType": 1,
+                                            "id": 276,
+                                            "tagName": "SPAN",
+                                            "attributes": {
+                                                "class": "step center-block"
+                                            },
+                                            "childNodes": [{
+                                                "nodeType": 3,
+                                                "id": 277,
+                                                "textContent": "4"
+                                            }]
+                                        }, {
+                                            "nodeType": 3,
+                                            "id": 278,
+                                            "textContent": " "
+                                        }, {
+                                            "nodeType": 1,
+                                            "id": 279,
+                                            "tagName": "H3",
+                                            "attributes": {},
+                                            "childNodes": [{
+                                                "nodeType": 3,
+                                                "id": 280,
+                                                "textContent": "Forms"
+                                            }]
+                                        }, {
+                                            "nodeType": 3,
+                                            "id": 281,
+                                            "textContent": " "
+                                        }, {
+                                            "nodeType": 1,
+                                            "id": 282,
+                                            "tagName": "P",
+                                            "attributes": {
+                                                "class": "mb32"
+                                            },
+                                            "childNodes": [{
+                                                "nodeType": 3,
+                                                "id": 283,
+                                                "textContent": "Fill out the form."
+                                            }, {
+                                                "nodeType": 1,
+                                                "id": 284,
+                                                "tagName": "BR",
+                                                "attributes": {}
+                                            }, {
+                                                "nodeType": 3,
+                                                "id": 285,
+                                                "textContent": " "
+                                            }, {
+                                                "nodeType": 1,
+                                                "id": 286,
+                                                "tagName": "SMALL",
+                                                "attributes": {},
+                                                "childNodes": [{
+                                                    "nodeType": 3,
+                                                    "id": 287,
+                                                    "textContent": "Mouseflow is recording all your activity (except credit cards, passwords, fields with more than 3 consecutive digits, or fields you "
+                                                }, {
+                                                    "nodeType": 1,
+                                                    "id": 288,
+                                                    "tagName": "A",
+                                                    "attributes": {
+                                                        "href": "help.mouseflow.com/knowledge_base/topics/how-can-i-exclude-certain-input-fields-from-being-recorded",
+                                                        "target": "_blank"
+                                                    },
+                                                    "childNodes": [{
+                                                        "nodeType": 3,
+                                                        "id": 289,
+                                                        "textContent": "exclude"
+                                                    }]
+                                                }, {
+                                                    "nodeType": 3,
+                                                    "id": 290,
+                                                    "textContent": ")."
+                                                }]
+                                            }]
+                                        }, {
+                                            "nodeType": 3,
+                                            "id": 291,
+                                            "textContent": " "
+                                        }, {
+                                            "nodeType": 1,
+                                            "id": 292,
+                                            "tagName": "INPUT",
+                                            "attributes": {
+                                                "type": "text",
+                                                "name": "name",
+                                                "class": "col-md-6 validate-required",
+                                                "placeholder": "Your Name"
+                                            }
+                                        }, {
+                                            "nodeType": 3,
+                                            "id": 293,
+                                            "textContent": " "
+                                        }, {
+                                            "nodeType": 1,
+                                            "id": 294,
+                                            "tagName": "INPUT",
+                                            "attributes": {
+                                                "type": "text",
+                                                "name": "email",
+                                                "class": "col-md-6 validate-required validate-email",
+                                                "placeholder": "Your Email Address"
+                                            }
+                                        }, {
+                                            "nodeType": 3,
+                                            "id": 295,
+                                            "textContent": " "
+                                        }, {
+                                            "nodeType": 1,
+                                            "id": 296,
+                                            "tagName": "P",
+                                            "attributes": {},
+                                            "childNodes": [{
+                                                "nodeType": 3,
+                                                "id": 297,
+                                                "textContent": "How much do you like Mouseflow?"
+                                            }]
+                                        }, {
+                                            "nodeType": 3,
+                                            "id": 298,
+                                            "textContent": " "
+                                        }, {
+                                            "nodeType": 1,
+                                            "id": 299,
+                                            "tagName": "DIV",
+                                            "attributes": {
+                                                "class": "col-sm-4"
+                                            },
+                                            "childNodes": [{
+                                                "nodeType": 3,
+                                                "id": 300,
+                                                "textContent": " "
+                                            }, {
+                                                "nodeType": 1,
+                                                "id": 301,
+                                                "tagName": "P",
+                                                "attributes": {},
+                                                "childNodes": [{
+                                                    "nodeType": 3,
+                                                    "id": 302,
+                                                    "textContent": "It's okay!"
+                                                }]
+                                            }, {
+                                                "nodeType": 3,
+                                                "id": 303,
+                                                "textContent": " "
+                                            }, {
+                                                "nodeType": 1,
+                                                "id": 304,
+                                                "tagName": "DIV",
+                                                "attributes": {
+                                                    "class": "radio-option"
+                                                },
+                                                "childNodes": [{
+                                                    "nodeType": 3,
+                                                    "id": 305,
+                                                    "textContent": " "
+                                                }, {
+                                                    "nodeType": 1,
+                                                    "id": 306,
+                                                    "tagName": "DIV",
+                                                    "attributes": {
+                                                        "class": "inner"
+                                                    }
+                                                }, {
+                                                    "nodeType": 3,
+                                                    "id": 307,
+                                                    "textContent": " "
+                                                }, {
+                                                    "nodeType": 1,
+                                                    "id": 308,
+                                                    "tagName": "INPUT",
+                                                    "attributes": {
+                                                        "type": "radio",
+                                                        "name": "rating",
+                                                        "value": ""
+                                                    }
+                                                }, {
+                                                    "nodeType": 3,
+                                                    "id": 309,
+                                                    "textContent": " "
+                                                }]
+                                            }, {
+                                                "nodeType": 3,
+                                                "id": 310,
+                                                "textContent": " "
+                                            }]
+                                        }, {
+                                            "nodeType": 3,
+                                            "id": 311,
+                                            "textContent": " "
+                                        }, {
+                                            "nodeType": 1,
+                                            "id": 312,
+                                            "tagName": "DIV",
+                                            "attributes": {
+                                                "class": "col-sm-4"
+                                            },
+                                            "childNodes": [{
+                                                "nodeType": 3,
+                                                "id": 313,
+                                                "textContent": " "
+                                            }, {
+                                                "nodeType": 1,
+                                                "id": 314,
+                                                "tagName": "P",
+                                                "attributes": {},
+                                                "childNodes": [{
+                                                    "nodeType": 3,
+                                                    "id": 315,
+                                                    "textContent": "It's good!"
+                                                }]
+                                            }, {
+                                                "nodeType": 3,
+                                                "id": 316,
+                                                "textContent": " "
+                                            }, {
+                                                "nodeType": 1,
+                                                "id": 317,
+                                                "tagName": "DIV",
+                                                "attributes": {
+                                                    "class": "radio-option"
+                                                },
+                                                "childNodes": [{
+                                                    "nodeType": 3,
+                                                    "id": 318,
+                                                    "textContent": " "
+                                                }, {
+                                                    "nodeType": 1,
+                                                    "id": 319,
+                                                    "tagName": "DIV",
+                                                    "attributes": {
+                                                        "class": "inner"
+                                                    }
+                                                }, {
+                                                    "nodeType": 3,
+                                                    "id": 320,
+                                                    "textContent": " "
+                                                }, {
+                                                    "nodeType": 1,
+                                                    "id": 321,
+                                                    "tagName": "INPUT",
+                                                    "attributes": {
+                                                        "type": "radio",
+                                                        "name": "rating",
+                                                        "value": ""
+                                                    }
+                                                }, {
+                                                    "nodeType": 3,
+                                                    "id": 322,
+                                                    "textContent": " "
+                                                }]
+                                            }, {
+                                                "nodeType": 3,
+                                                "id": 323,
+                                                "textContent": " "
+                                            }]
+                                        }, {
+                                            "nodeType": 3,
+                                            "id": 324,
+                                            "textContent": " "
+                                        }, {
+                                            "nodeType": 1,
+                                            "id": 325,
+                                            "tagName": "DIV",
+                                            "attributes": {
+                                                "class": "col-sm-4"
+                                            },
+                                            "childNodes": [{
+                                                "nodeType": 3,
+                                                "id": 326,
+                                                "textContent": " "
+                                            }, {
+                                                "nodeType": 1,
+                                                "id": 327,
+                                                "tagName": "P",
+                                                "attributes": {},
+                                                "childNodes": [{
+                                                    "nodeType": 3,
+                                                    "id": 328,
+                                                    "textContent": "It's amazing!"
+                                                }]
+                                            }, {
+                                                "nodeType": 3,
+                                                "id": 329,
+                                                "textContent": " "
+                                            }, {
+                                                "nodeType": 1,
+                                                "id": 330,
+                                                "tagName": "DIV",
+                                                "attributes": {
+                                                    "class": "radio-option"
+                                                },
+                                                "childNodes": [{
+                                                    "nodeType": 3,
+                                                    "id": 331,
+                                                    "textContent": " "
+                                                }, {
+                                                    "nodeType": 1,
+                                                    "id": 332,
+                                                    "tagName": "DIV",
+                                                    "attributes": {
+                                                        "class": "inner"
+                                                    }
+                                                }, {
+                                                    "nodeType": 3,
+                                                    "id": 333,
+                                                    "textContent": " "
+                                                }, {
+                                                    "nodeType": 1,
+                                                    "id": 334,
+                                                    "tagName": "INPUT",
+                                                    "attributes": {
+                                                        "type": "radio",
+                                                        "name": "rating",
+                                                        "value": ""
+                                                    }
+                                                }, {
+                                                    "nodeType": 3,
+                                                    "id": 335,
+                                                    "textContent": " "
+                                                }]
+                                            }, {
+                                                "nodeType": 3,
+                                                "id": 336,
+                                                "textContent": " "
+                                            }]
+                                        }, {
+                                            "nodeType": 3,
+                                            "id": 337,
+                                            "textContent": " "
+                                        }, {
+                                            "nodeType": 1,
+                                            "id": 338,
+                                            "tagName": "HR",
+                                            "attributes": {}
+                                        }, {
+                                            "nodeType": 3,
+                                            "id": 339,
+                                            "textContent": " "
+                                        }]
+                                    }, {
+                                        "nodeType": 3,
+                                        "id": 340,
+                                        "textContent": " "
+                                    }, {
+                                        "nodeType": 1,
+                                        "id": 341,
+                                        "tagName": "DIV",
+                                        "attributes": {
+                                            "class": "overflow-hidden"
+                                        },
+                                        "childNodes": [{
+                                            "nodeType": 3,
+                                            "id": 342,
+                                            "textContent": " "
+                                        }, {
+                                            "nodeType": 1,
+                                            "id": 343,
+                                            "tagName": "P",
+                                            "attributes": {},
+                                            "childNodes": [{
+                                                "nodeType": 3,
+                                                "id": 344,
+                                                "textContent": "Ready to see your recording?"
+                                            }]
+                                        }, {
+                                            "nodeType": 3,
+                                            "id": 345,
+                                            "textContent": " "
+                                        }, {
+                                            "nodeType": 1,
+                                            "id": 346,
+                                            "tagName": "A",
+                                            "attributes": {
+                                                "href": "javascript:void(0);",
+                                                "class": "btn btn-lg btn-filled"
+                                            },
+                                            "childNodes": [{
+                                                "nodeType": 3,
+                                                "id": 347,
+                                                "textContent": "Let's Go"
+                                            }]
+                                        }, {
+                                            "nodeType": 3,
+                                            "id": 348,
+                                            "textContent": " "
+                                        }]
+                                    }, {
+                                        "nodeType": 3,
+                                        "id": 349,
+                                        "textContent": " "
+                                    }]
+                                }, {
+                                    "nodeType": 3,
+                                    "id": 350,
+                                    "textContent": " "
+                                }]
+                            }, {
+                                "nodeType": 3,
+                                "id": 351,
+                                "textContent": " "
+                            }]
+                        }, {
+                            "nodeType": 3,
+                            "id": 352,
+                            "textContent": " "
+                        }]
+                    }, {
+                        "nodeType": 3,
+                        "id": 353,
+                        "textContent": " "
+                    }]
+                }, {
+                    "nodeType": 3,
+                    "id": 354,
+                    "textContent": " "
+                }, {
+                    "nodeType": 1,
+                    "id": 355,
+                    "tagName": "DIV",
+                    "attributes": {
+                        "class": "container"
+                    },
+                    "childNodes": [{
+                        "nodeType": 3,
+                        "id": 356,
+                        "textContent": " "
+                    }, {
+                        "nodeType": 1,
+                        "id": 357,
+                        "tagName": "DIV",
+                        "attributes": {
+                            "class": "row"
+                        },
+                        "childNodes": [{
+                            "nodeType": 3,
+                            "id": 358,
+                            "textContent": " "
+                        }, {
+                            "nodeType": 1,
+                            "id": 359,
+                            "tagName": "DIV",
+                            "attributes": {
+                                "class": "col-sm-12 text-center mt64"
+                            },
+                            "childNodes": [{
+                                "nodeType": 3,
+                                "id": 360,
+                                "textContent": " "
+                            }, {
+                                "nodeType": 1,
+                                "id": 361,
+                                "tagName": "P",
+                                "attributes": {
+                                    "class": "cta-text"
+                                },
+                                "childNodes": [{
+                                    "nodeType": 3,
+                                    "id": 362,
+                                    "textContent": "Questions? Let's "
+                                }, {
+                                    "nodeType": 1,
+                                    "id": 363,
+                                    "tagName": "A",
+                                    "attributes": {
+                                        "href": "/contact"
+                                    },
+                                    "childNodes": [{
+                                        "nodeType": 3,
+                                        "id": 364,
+                                        "textContent": "get in touch"
+                                    }]
+                                }, {
+                                    "nodeType": 3,
+                                    "id": 365,
+                                    "textContent": "."
+                                }]
+                            }, {
+                                "nodeType": 3,
+                                "id": 366,
+                                "textContent": " "
+                            }]
+                        }, {
+                            "nodeType": 3,
+                            "id": 367,
+                            "textContent": " "
+                        }]
+                    }, {
+                        "nodeType": 3,
+                        "id": 368,
+                        "textContent": " "
+                    }]
+                }, {
+                    "nodeType": 3,
+                    "id": 369,
+                    "textContent": " "
+                }]
+            }, {
+                "nodeType": 3,
+                "id": 370,
+                "textContent": " "
+            }]
+        }, {
+            "nodeType": 3,
+            "id": 371,
+            "textContent": " "
+        }, {
+            "nodeType": 1,
+            "id": 372,
+            "tagName": "FOOTER",
+            "attributes": {
+                "class": "footer-1 bg-dark"
+            },
+            "childNodes": [{
+                "nodeType": 3,
+                "id": 373,
+                "textContent": " "
+            }, {
+                "nodeType": 1,
+                "id": 374,
+                "tagName": "DIV",
+                "attributes": {
+                    "class": "container"
+                },
+                "childNodes": [{
+                    "nodeType": 3,
+                    "id": 375,
+                    "textContent": " "
+                }, {
+                    "nodeType": 1,
+                    "id": 376,
+                    "tagName": "DIV",
+                    "attributes": {
+                        "class": "row"
+                    },
+                    "childNodes": [{
+                        "nodeType": 3,
+                        "id": 377,
+                        "textContent": " "
+                    }, {
+                        "nodeType": 1,
+                        "id": 378,
+                        "tagName": "DIV",
+                        "attributes": {
+                            "class": "col-md-4 col-sm-6"
+                        },
+                        "childNodes": [{
+                            "nodeType": 3,
+                            "id": 379,
+                            "textContent": " "
+                        }, {
+                            "nodeType": 1,
+                            "id": 380,
+                            "tagName": "DIV",
+                            "attributes": {
+                                "class": "widget"
+                            },
+                            "childNodes": [{
+                                "nodeType": 3,
+                                "id": 381,
+                                "textContent": " "
+                            }, {
+                                "nodeType": 1,
+                                "id": 382,
+                                "tagName": "H6",
+                                "attributes": {
+                                    "class": "title"
+                                },
+                                "childNodes": [{
+                                    "nodeType": 3,
+                                    "id": 383,
+                                    "textContent": "Resources"
+                                }]
+                            }, {
+                                "nodeType": 3,
+                                "id": 384,
+                                "textContent": " "
+                            }, {
+                                "nodeType": 1,
+                                "id": 385,
+                                "tagName": "HR",
+                                "attributes": {}
+                            }, {
+                                "nodeType": 3,
+                                "id": 386,
+                                "textContent": " "
+                            }, {
+                                "nodeType": 1,
+                                "id": 387,
+                                "tagName": "UL",
+                                "attributes": {
+                                    "class": "nav"
+                                },
+                                "childNodes": [{
+                                    "nodeType": 3,
+                                    "id": 388,
+                                    "textContent": " "
+                                }, {
+                                    "nodeType": 1,
+                                    "id": 389,
+                                    "tagName": "LI",
+                                    "attributes": {},
+                                    "childNodes": [{
+                                        "nodeType": 1,
+                                        "id": 390,
+                                        "tagName": "A",
+                                        "attributes": {
+                                            "href": "/gdpr/"
+                                        },
+                                        "childNodes": [{
+                                            "nodeType": 3,
+                                            "id": 391,
+                                            "textContent": "GDPR"
+                                        }]
+                                    }]
+                                }, {
+                                    "nodeType": 3,
+                                    "id": 392,
+                                    "textContent": " "
+                                }, {
+                                    "nodeType": 1,
+                                    "id": 393,
+                                    "tagName": "LI",
+                                    "attributes": {},
+                                    "childNodes": [{
+                                        "nodeType": 1,
+                                        "id": 394,
+                                        "tagName": "A",
+                                        "attributes": {
+                                            "href": "/affiliate/"
+                                        },
+                                        "childNodes": [{
+                                            "nodeType": 3,
+                                            "id": 395,
+                                            "textContent": "Affiliates"
+                                        }]
+                                    }]
+                                }, {
+                                    "nodeType": 3,
+                                    "id": 396,
+                                    "textContent": " "
+                                }, {
+                                    "nodeType": 1,
+                                    "id": 397,
+                                    "tagName": "LI",
+                                    "attributes": {},
+                                    "childNodes": [{
+                                        "nodeType": 1,
+                                        "id": 398,
+                                        "tagName": "A",
+                                        "attributes": {
+                                            "href": "https://api-docs.mouseflow.com",
+                                            "target": "_blank"
+                                        },
+                                        "childNodes": [{
+                                            "nodeType": 3,
+                                            "id": 399,
+                                            "textContent": "API"
+                                        }]
+                                    }]
+                                }, {
+                                    "nodeType": 3,
+                                    "id": 400,
+                                    "textContent": " "
+                                }, {
+                                    "nodeType": 1,
+                                    "id": 401,
+                                    "tagName": "LI",
+                                    "attributes": {},
+                                    "childNodes": [{
+                                        "nodeType": 1,
+                                        "id": 402,
+                                        "tagName": "A",
+                                        "attributes": {
+                                            "href": "/consulting/"
+                                        },
+                                        "childNodes": [{
+                                            "nodeType": 3,
+                                            "id": 403,
+                                            "textContent": "Consulting"
+                                        }]
+                                    }]
+                                }, {
+                                    "nodeType": 3,
+                                    "id": 404,
+                                    "textContent": " "
+                                }, {
+                                    "nodeType": 1,
+                                    "id": 405,
+                                    "tagName": "LI",
+                                    "attributes": {},
+                                    "childNodes": [{
+                                        "nodeType": 1,
+                                        "id": 406,
+                                        "tagName": "A",
+                                        "attributes": {
+                                            "href": "/integrations/"
+                                        },
+                                        "childNodes": [{
+                                            "nodeType": 3,
+                                            "id": 407,
+                                            "textContent": "Integrations"
+                                        }]
+                                    }]
+                                }, {
+                                    "nodeType": 3,
+                                    "id": 408,
+                                    "textContent": " "
+                                }, {
+                                    "nodeType": 1,
+                                    "id": 409,
+                                    "tagName": "LI",
+                                    "attributes": {},
+                                    "childNodes": [{
+                                        "nodeType": 1,
+                                        "id": 410,
+                                        "tagName": "A",
+                                        "attributes": {
+                                            "href": "/opt-out/"
+                                        },
+                                        "childNodes": [{
+                                            "nodeType": 3,
+                                            "id": 411,
+                                            "textContent": "Opt Out"
+                                        }]
+                                    }]
+                                }, {
+                                    "nodeType": 3,
+                                    "id": 412,
+                                    "textContent": " "
+                                }, {
+                                    "nodeType": 1,
+                                    "id": 413,
+                                    "tagName": "LI",
+                                    "attributes": {},
+                                    "childNodes": [{
+                                        "nodeType": 1,
+                                        "id": 414,
+                                        "tagName": "A",
+                                        "attributes": {
+                                            "href": "/privacy/"
+                                        },
+                                        "childNodes": [{
+                                            "nodeType": 3,
+                                            "id": 415,
+                                            "textContent": "Privacy"
+                                        }]
+                                    }]
+                                }, {
+                                    "nodeType": 3,
+                                    "id": 416,
+                                    "textContent": " "
+                                }, {
+                                    "nodeType": 1,
+                                    "id": 417,
+                                    "tagName": "LI",
+                                    "attributes": {},
+                                    "childNodes": [{
+                                        "nodeType": 1,
+                                        "id": 418,
+                                        "tagName": "A",
+                                        "attributes": {
+                                            "href": "/privacy-shield/"
+                                        },
+                                        "childNodes": [{
+                                            "nodeType": 3,
+                                            "id": 419,
+                                            "textContent": "Privacy Shield"
+                                        }]
+                                    }]
+                                }, {
+                                    "nodeType": 3,
+                                    "id": 420,
+                                    "textContent": " "
+                                }, {
+                                    "nodeType": 1,
+                                    "id": 421,
+                                    "tagName": "LI",
+                                    "attributes": {},
+                                    "childNodes": [{
+                                        "nodeType": 1,
+                                        "id": 422,
+                                        "tagName": "A",
+                                        "attributes": {
+                                            "href": "/security/"
+                                        },
+                                        "childNodes": [{
+                                            "nodeType": 3,
+                                            "id": 423,
+                                            "textContent": "Security"
+                                        }]
+                                    }]
+                                }, {
+                                    "nodeType": 3,
+                                    "id": 424,
+                                    "textContent": " "
+                                }, {
+                                    "nodeType": 1,
+                                    "id": 425,
+                                    "tagName": "LI",
+                                    "attributes": {},
+                                    "childNodes": [{
+                                        "nodeType": 1,
+                                        "id": 426,
+                                        "tagName": "A",
+                                        "attributes": {
+                                            "href": "/terms/"
+                                        },
+                                        "childNodes": [{
+                                            "nodeType": 3,
+                                            "id": 427,
+                                            "textContent": "Terms"
+                                        }]
+                                    }]
+                                }, {
+                                    "nodeType": 3,
+                                    "id": 428,
+                                    "textContent": " "
+                                }, {
+                                    "nodeType": 1,
+                                    "id": 429,
+                                    "tagName": "LI",
+                                    "attributes": {},
+                                    "childNodes": [{
+                                        "nodeType": 1,
+                                        "id": 430,
+                                        "tagName": "A",
+                                        "attributes": {
+                                            "href": "/training/"
+                                        },
+                                        "childNodes": [{
+                                            "nodeType": 3,
+                                            "id": 431,
+                                            "textContent": "Training"
+                                        }]
+                                    }]
+                                }, {
+                                    "nodeType": 3,
+                                    "id": 432,
+                                    "textContent": " "
+                                }]
+                            }, {
+                                "nodeType": 3,
+                                "id": 433,
+                                "textContent": " "
+                            }]
+                        }, {
+                            "nodeType": 3,
+                            "id": 434,
+                            "textContent": " "
+                        }]
+                    }, {
+                        "nodeType": 3,
+                        "id": 435,
+                        "textContent": " "
+                    }, {
+                        "nodeType": 1,
+                        "id": 436,
+                        "tagName": "DIV",
+                        "attributes": {
+                            "class": "col-md-4 col-sm-6"
+                        },
+                        "childNodes": [{
+                            "nodeType": 3,
+                            "id": 437,
+                            "textContent": " "
+                        }, {
+                            "nodeType": 1,
+                            "id": 438,
+                            "tagName": "DIV",
+                            "attributes": {
+                                "class": "widget"
+                            },
+                            "childNodes": [{
+                                "nodeType": 3,
+                                "id": 439,
+                                "textContent": " "
+                            }, {
+                                "nodeType": 1,
+                                "id": 440,
+                                "tagName": "H6",
+                                "attributes": {
+                                    "class": "title"
+                                },
+                                "childNodes": [{
+                                    "nodeType": 3,
+                                    "id": 441,
+                                    "textContent": "Recent Posts"
+                                }]
+                            }, {
+                                "nodeType": 3,
+                                "id": 442,
+                                "textContent": " "
+                            }, {
+                                "nodeType": 1,
+                                "id": 443,
+                                "tagName": "HR",
+                                "attributes": {}
+                            }, {
+                                "nodeType": 3,
+                                "id": 444,
+                                "textContent": " "
+                            }, {
+                                "nodeType": 1,
+                                "id": 445,
+                                "tagName": "UL",
+                                "attributes": {
+                                    "class": "recent-posts"
+                                },
+                                "childNodes": [{
+                                    "nodeType": 3,
+                                    "id": 446,
+                                    "textContent": " "
+                                }, {
+                                    "nodeType": 1,
+                                    "id": 447,
+                                    "tagName": "LI",
+                                    "attributes": {},
+                                    "childNodes": [{
+                                        "nodeType": 3,
+                                        "id": 448,
+                                        "textContent": " "
+                                    }, {
+                                        "nodeType": 1,
+                                        "id": 449,
+                                        "tagName": "A",
+                                        "attributes": {
+                                            "href": "/blog/2018/03/mouseflow-recognized-as-an-inc-5000-europe-company/"
+                                        },
+                                        "childNodes": [{
+                                            "nodeType": 3,
+                                            "id": 450,
+                                            "textContent": "Mouseflow recognized as an Inc. 5000 Europe company"
+                                        }]
+                                    }, {
+                                        "nodeType": 3,
+                                        "id": 451,
+                                        "textContent": " "
+                                    }, {
+                                        "nodeType": 1,
+                                        "id": 452,
+                                        "tagName": "SPAN",
+                                        "attributes": {
+                                            "class": "date"
+                                        },
+                                        "childNodes": [{
+                                            "nodeType": 3,
+                                            "id": 453,
+                                            "textContent": "March 01, 2018"
+                                        }]
+                                    }, {
+                                        "nodeType": 3,
+                                        "id": 454,
+                                        "textContent": " "
+                                    }]
+                                }, {
+                                    "nodeType": 3,
+                                    "id": 455,
+                                    "textContent": " "
+                                }, {
+                                    "nodeType": 1,
+                                    "id": 456,
+                                    "tagName": "LI",
+                                    "attributes": {},
+                                    "childNodes": [{
+                                        "nodeType": 3,
+                                        "id": 457,
+                                        "textContent": " "
+                                    }, {
+                                        "nodeType": 1,
+                                        "id": 458,
+                                        "tagName": "A",
+                                        "attributes": {
+                                            "href": "/blog/2018/02/form-errors-identify-why-users-are-dropping-out/"
+                                        },
+                                        "childNodes": [{
+                                            "nodeType": 3,
+                                            "id": 459,
+                                            "textContent": "Form Errors: Identify why users are dropping out"
+                                        }]
+                                    }, {
+                                        "nodeType": 3,
+                                        "id": 460,
+                                        "textContent": " "
+                                    }, {
+                                        "nodeType": 1,
+                                        "id": 461,
+                                        "tagName": "SPAN",
+                                        "attributes": {
+                                            "class": "date"
+                                        },
+                                        "childNodes": [{
+                                            "nodeType": 3,
+                                            "id": 462,
+                                            "textContent": "February 15, 2018"
+                                        }]
+                                    }, {
+                                        "nodeType": 3,
+                                        "id": 463,
+                                        "textContent": " "
+                                    }]
+                                }, {
+                                    "nodeType": 3,
+                                    "id": 464,
+                                    "textContent": " "
+                                }, {
+                                    "nodeType": 1,
+                                    "id": 465,
+                                    "tagName": "LI",
+                                    "attributes": {},
+                                    "childNodes": [{
+                                        "nodeType": 3,
+                                        "id": 466,
+                                        "textContent": " "
+                                    }, {
+                                        "nodeType": 1,
+                                        "id": 467,
+                                        "tagName": "A",
+                                        "attributes": {
+                                            "href": "/blog/2018/02/mouseflow-launches-a-local-office-in-the-uk/"
+                                        },
+                                        "childNodes": [{
+                                            "nodeType": 3,
+                                            "id": 468,
+                                            "textContent": "Mouseflow launches a local office in the UK "
+                                        }]
+                                    }, {
+                                        "nodeType": 3,
+                                        "id": 469,
+                                        "textContent": " "
+                                    }, {
+                                        "nodeType": 1,
+                                        "id": 470,
+                                        "tagName": "SPAN",
+                                        "attributes": {
+                                            "class": "date"
+                                        },
+                                        "childNodes": [{
+                                            "nodeType": 3,
+                                            "id": 471,
+                                            "textContent": "February 01, 2018"
+                                        }]
+                                    }, {
+                                        "nodeType": 3,
+                                        "id": 472,
+                                        "textContent": " "
+                                    }]
+                                }, {
+                                    "nodeType": 3,
+                                    "id": 473,
+                                    "textContent": " "
+                                }]
+                            }, {
+                                "nodeType": 3,
+                                "id": 474,
+                                "textContent": " "
+                            }]
+                        }, {
+                            "nodeType": 3,
+                            "id": 475,
+                            "textContent": " "
+                        }, {
+                            "nodeType": 8,
+                            "id": 476
+                        }, {
+                            "nodeType": 3,
+                            "id": 477,
+                            "textContent": " "
+                        }]
+                    }, {
+                        "nodeType": 3,
+                        "id": 478,
+                        "textContent": " "
+                    }, {
+                        "nodeType": 1,
+                        "id": 479,
+                        "tagName": "DIV",
+                        "attributes": {
+                            "class": "col-md-4 col-sm-6"
+                        },
+                        "childNodes": [{
+                            "nodeType": 3,
+                            "id": 480,
+                            "textContent": " "
+                        }, {
+                            "nodeType": 1,
+                            "id": 481,
+                            "tagName": "DIV",
+                            "attributes": {
+                                "class": "widget"
+                            },
+                            "childNodes": [{
+                                "nodeType": 3,
+                                "id": 482,
+                                "textContent": " "
+                            }, {
+                                "nodeType": 1,
+                                "id": 483,
+                                "tagName": "H6",
+                                "attributes": {
+                                    "class": "title"
+                                },
+                                "childNodes": [{
+                                    "nodeType": 3,
+                                    "id": 484,
+                                    "textContent": "Contact"
+                                }]
+                            }, {
+                                "nodeType": 3,
+                                "id": 485,
+                                "textContent": " "
+                            }, {
+                                "nodeType": 1,
+                                "id": 486,
+                                "tagName": "HR",
+                                "attributes": {}
+                            }, {
+                                "nodeType": 3,
+                                "id": 487,
+                                "textContent": " "
+                            }, {
+                                "nodeType": 1,
+                                "id": 488,
+                                "tagName": "IMG",
+                                "attributes": {
+                                    "alt": "Mouseflow",
+                                    "class": "logo footer-logo mb16",
+                                    "src": "https://cdn.mouseflow.net/static/img/logo-light.png"
+                                }
+                            }, {
+                                "nodeType": 3,
+                                "id": 489,
+                                "textContent": " "
+                            }, {
+                                "nodeType": 1,
+                                "id": 490,
+                                "tagName": "ADDRESS",
+                                "attributes": {},
+                                "childNodes": [{
+                                    "nodeType": 3,
+                                    "id": 491,
+                                    "textContent": "2205 152nd Ave NE "
+                                }, {
+                                    "nodeType": 1,
+                                    "id": 492,
+                                    "tagName": "BR",
+                                    "attributes": {}
+                                }, {
+                                    "nodeType": 3,
+                                    "id": 493,
+                                    "textContent": "Redmond, WA 98052 "
+                                }, {
+                                    "nodeType": 1,
+                                    "id": 494,
+                                    "tagName": "BR",
+                                    "attributes": {}
+                                }, {
+                                    "nodeType": 3,
+                                    "id": 495,
+                                    "textContent": "United States"
+                                }]
+                            }, {
+                                "nodeType": 1,
+                                "id": 496,
+                                "tagName": "ADDRESS",
+                                "attributes": {},
+                                "childNodes": [{
+                                    "nodeType": 3,
+                                    "id": 497,
+                                    "textContent": "Flaesketorvet 68 "
+                                }, {
+                                    "nodeType": 1,
+                                    "id": 498,
+                                    "tagName": "BR",
+                                    "attributes": {}
+                                }, {
+                                    "nodeType": 3,
+                                    "id": 499,
+                                    "textContent": "1711 Copenhagen V "
+                                }, {
+                                    "nodeType": 1,
+                                    "id": 500,
+                                    "tagName": "BR",
+                                    "attributes": {}
+                                }, {
+                                    "nodeType": 3,
+                                    "id": 501,
+                                    "textContent": "Denmark"
+                                }]
+                            }, {
+                                "nodeType": 3,
+                                "id": 502,
+                                "textContent": " "
+                            }, {
+                                "nodeType": 1,
+                                "id": 503,
+                                "tagName": "A",
+                                "attributes": {
+                                    "href": "mailto:hi@mouseflow.com"
+                                },
+                                "childNodes": [{
+                                    "nodeType": 3,
+                                    "id": 504,
+                                    "textContent": "hi@mouseflow.com"
+                                }]
+                            }, {
+                                "nodeType": 1,
+                                "id": 505,
+                                "tagName": "BR",
+                                "attributes": {}
+                            }, {
+                                "nodeType": 3,
+                                "id": 506,
+                                "textContent": " "
+                            }, {
+                                "nodeType": 1,
+                                "id": 507,
+                                "tagName": "A",
+                                "attributes": {
+                                    "href": "tel:18556687335"
+                                },
+                                "childNodes": [{
+                                    "nodeType": 3,
+                                    "id": 508,
+                                    "textContent": "+1 855-668-7335"
+                                }]
+                            }, {
+                                "nodeType": 3,
+                                "id": 509,
+                                "textContent": " "
+                            }]
+                        }, {
+                            "nodeType": 3,
+                            "id": 510,
+                            "textContent": " "
+                        }, {
+                            "nodeType": 8,
+                            "id": 511
+                        }, {
+                            "nodeType": 3,
+                            "id": 512,
+                            "textContent": " "
+                        }]
+                    }, {
+                        "nodeType": 3,
+                        "id": 513,
+                        "textContent": " "
+                    }]
+                }, {
+                    "nodeType": 3,
+                    "id": 514,
+                    "textContent": " "
+                }, {
+                    "nodeType": 8,
+                    "id": 515
+                }, {
+                    "nodeType": 3,
+                    "id": 516,
+                    "textContent": " "
+                }, {
+                    "nodeType": 1,
+                    "id": 517,
+                    "tagName": "DIV",
+                    "attributes": {
+                        "class": "row"
+                    },
+                    "childNodes": [{
+                        "nodeType": 3,
+                        "id": 518,
+                        "textContent": " "
+                    }, {
+                        "nodeType": 1,
+                        "id": 519,
+                        "tagName": "DIV",
+                        "attributes": {
+                            "class": "col-sm-6"
+                        },
+                        "childNodes": [{
+                            "nodeType": 3,
+                            "id": 520,
+                            "textContent": " "
+                        }, {
+                            "nodeType": 1,
+                            "id": 521,
+                            "tagName": "SPAN",
+                            "attributes": {
+                                "class": "sub"
+                            },
+                            "childNodes": [{
+                                "nodeType": 3,
+                                "id": 522,
+                                "textContent": "© Mouseflow. All rights reserved."
+                            }]
+                        }, {
+                            "nodeType": 3,
+                            "id": 523,
+                            "textContent": " "
+                        }]
+                    }, {
+                        "nodeType": 3,
+                        "id": 524,
+                        "textContent": " "
+                    }, {
+                        "nodeType": 1,
+                        "id": 525,
+                        "tagName": "DIV",
+                        "attributes": {
+                            "class": "col-sm-6 text-right"
+                        },
+                        "childNodes": [{
+                            "nodeType": 3,
+                            "id": 526,
+                            "textContent": " "
+                        }, {
+                            "nodeType": 1,
+                            "id": 527,
+                            "tagName": "UL",
+                            "attributes": {
+                                "class": "list-inline social-list"
+                            },
+                            "childNodes": [{
+                                "nodeType": 3,
+                                "id": 528,
+                                "textContent": " "
+                            }, {
+                                "nodeType": 1,
+                                "id": 529,
+                                "tagName": "LI",
+                                "attributes": {},
+                                "childNodes": [{
+                                    "nodeType": 3,
+                                    "id": 530,
+                                    "textContent": " "
+                                }, {
+                                    "nodeType": 1,
+                                    "id": 531,
+                                    "tagName": "A",
+                                    "attributes": {
+                                        "href": "https://twitter.com/mouseflow",
+                                        "target": "_blank"
+                                    },
+                                    "childNodes": [{
+                                        "nodeType": 3,
+                                        "id": 532,
+                                        "textContent": " "
+                                    }, {
+                                        "nodeType": 1,
+                                        "id": 533,
+                                        "tagName": "I",
+                                        "attributes": {
+                                            "class": "ti-twitter-alt"
+                                        }
+                                    }, {
+                                        "nodeType": 3,
+                                        "id": 534,
+                                        "textContent": " "
+                                    }]
+                                }, {
+                                    "nodeType": 3,
+                                    "id": 535,
+                                    "textContent": " "
+                                }]
+                            }, {
+                                "nodeType": 3,
+                                "id": 536,
+                                "textContent": " "
+                            }, {
+                                "nodeType": 1,
+                                "id": 537,
+                                "tagName": "LI",
+                                "attributes": {},
+                                "childNodes": [{
+                                    "nodeType": 3,
+                                    "id": 538,
+                                    "textContent": " "
+                                }, {
+                                    "nodeType": 1,
+                                    "id": 539,
+                                    "tagName": "A",
+                                    "attributes": {
+                                        "href": "https://facebook.com/mouseflowdotcom",
+                                        "target": "_blank"
+                                    },
+                                    "childNodes": [{
+                                        "nodeType": 3,
+                                        "id": 540,
+                                        "textContent": " "
+                                    }, {
+                                        "nodeType": 1,
+                                        "id": 541,
+                                        "tagName": "I",
+                                        "attributes": {
+                                            "class": "ti-facebook"
+                                        }
+                                    }, {
+                                        "nodeType": 3,
+                                        "id": 542,
+                                        "textContent": " "
+                                    }]
+                                }, {
+                                    "nodeType": 3,
+                                    "id": 543,
+                                    "textContent": " "
+                                }]
+                            }, {
+                                "nodeType": 3,
+                                "id": 544,
+                                "textContent": " "
+                            }]
+                        }, {
+                            "nodeType": 3,
+                            "id": 545,
+                            "textContent": " "
+                        }]
+                    }, {
+                        "nodeType": 3,
+                        "id": 546,
+                        "textContent": " "
+                    }]
+                }, {
+                    "nodeType": 3,
+                    "id": 547,
+                    "textContent": " "
+                }]
+            }, {
+                "nodeType": 3,
+                "id": 548,
+                "textContent": " "
+            }, {
+                "nodeType": 8,
+                "id": 549
+            }, {
+                "nodeType": 3,
+                "id": 550,
+                "textContent": " "
+            }, {
+                "nodeType": 1,
+                "id": 551,
+                "tagName": "A",
+                "attributes": {
+                    "class": "btn btn-sm fade-half back-to-top inner-link",
+                    "href": "#top"
+                },
+                "childNodes": [{
+                    "nodeType": 3,
+                    "id": 552,
+                    "textContent": "Top"
+                }]
+            }, {
+                "nodeType": 3,
+                "id": 553,
+                "textContent": " "
+            }]
+        }, {
+            "nodeType": 3,
+            "id": 554,
+            "textContent": " "
+        }, {
+            "nodeType": 1,
+            "id": 555,
+            "tagName": "SCRIPT"
+        }, {
+            "nodeType": 1,
+            "id": 556,
+            "tagName": "IFRAME",
+            "attributes": {
+                "src": "",
+                "hidden": "",
+                "aria-hidden": "true",
+                "tabindex": "-1",
+                "height": "0",
+                "width": "0",
+                "style": "display: none;"
+            }
+        }, {
+            "nodeType": 3,
+            "id": 557,
+            "textContent": " "
+        }, {
+            "nodeType": 1,
+            "id": 558,
+            "tagName": "SCRIPT"
+        }, {
+            "nodeType": 3,
+            "id": 559,
+            "textContent": " "
+        }, {
+            "nodeType": 1,
+            "id": 560,
+            "tagName": "SCRIPT"
+        }, {
+            "nodeType": 3,
+            "id": 561,
+            "textContent": " "
+        }, {
+            "nodeType": 1,
+            "id": 562,
+            "tagName": "SCRIPT"
+        }, {
+            "nodeType": 3,
+            "id": 563,
+            "textContent": " "
+        }, {
+            "nodeType": 1,
+            "id": 564,
+            "tagName": "SCRIPT"
+        }, {
+            "nodeType": 3,
+            "id": 565,
+            "textContent": " "
+        }, {
+            "nodeType": 1,
+            "id": 566,
+            "tagName": "SCRIPT"
+        }, {
+            "nodeType": 3,
+            "id": 567,
+            "textContent": " "
+        }, {
+            "nodeType": 1,
+            "id": 568,
+            "tagName": "SCRIPT"
+        }, {
+            "nodeType": 3,
+            "id": 569,
+            "textContent": " "
+        }, {
+            "nodeType": 1,
+            "id": 570,
+            "tagName": "SCRIPT"
+        }, {
+            "nodeType": 3,
+            "id": 571,
+            "textContent": " "
+        }, {
+            "nodeType": 1,
+            "id": 572,
+            "tagName": "SCRIPT"
+        }, {
+            "nodeType": 3,
+            "id": 573,
+            "textContent": " "
+        }, {
+            "nodeType": 1,
+            "id": 574,
+            "tagName": "DIV",
+            "attributes": {
+                "id": "mouseflow"
+            },
+            "childNodes": [{
+                "nodeType": 1,
+                "id": 575,
+                "tagName": "STYLE",
+                "attributes": {
+                    "type": "text/css"
+                },
+                "childNodes": [{
+                    "nodeType": 3,
+                    "id": 576,
+                    "textContent": "@font-face {font-family: \"Droid Sans\";font-style: normal;font-weight: 400;src: local(\"Droid Sans Regular\"), local(\"DroidSans-Regular\"), url(https://fonts.gstatic.com/s/droidsans/v8/s-BiyweUPV0v-yRb-cjciPk_vArhqVIZ0nv9q090hN8.woff2) format(\"woff2\");unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2212, U+2215;}#mouseflow {font: 400 14px/1.4 \"Droid Sans\", Helvetica, Arial, sans-serif;color: #666;}#mouseflow :before, #mouseflow :after {display: none;}#mouseflow * {background-color: transparent;border: 0;border-image-outset: 0s;border-image-repeat: stretch;border-image-slice: 100%;border-image-source: none;border-image-width: 1;border-color: #000;border-radius: 0;border-width: 0;border-style: none;box-sizing: border-box;clip: auto;float: none;color: inherit;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;height: auto;letter-spacing: normal;line-height: normal;margin: 0;padding: 0;text-decoration: none;text-indent: 0;text-transform: none;vertical-align: baseline;width: auto;text-align: left;overflow: visible;}#mouseflow .load-font {position: absolute;visibility: hidden;}"
+                }]
+            }, {
+                "nodeType": 1,
+                "id": 577,
+                "tagName": "DIV",
+                "attributes": {
+                    "class": "load-font"
+                },
+                "childNodes": [{
+                    "nodeType": 3,
+                    "id": 578,
+                    "textContent": "load font"
+                }]
+            }]
+        }]
+    }]
+}]

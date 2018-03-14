@@ -1,0 +1,47 @@
+[
+    {
+        "nodeType": 1,
+        "id": 1,
+        "tagName": "HEAD",
+        "attributes": {},
+        "childNodes": [
+            {
+                "nodeType": 1,
+                "id": 2,
+                "tagName": "META",
+                "attributes": {
+                    "charset": "utf-8"
+                }
+            }
+        ]
+    },
+    {
+        "nodeType": 1,
+        "id": 1,
+        "tagName": "BODY",
+        "attributes": {
+            "class": "nav-is-overlay"
+        },
+        "childNodes": [
+            {
+                "nodeType": 1,
+                "id": 2,
+                "tagName": "DIV",
+                "attributes": {
+                     "class": "nav-container",
+                     "id": "nav-1"
+                }
+            },
+            {
+                "nodeType": 1,
+                "id": 3,
+                "tagName": "IMG",
+                "attributes": {
+                    "class": "logo logo-light",
+                    "alt": "test",
+                    "src": "https://cdn.mouseflow.net/static/img/logo-light-small.png"
+                }
+            }
+        ]
+    }
+]
