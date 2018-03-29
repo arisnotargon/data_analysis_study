@@ -31,7 +31,11 @@ def htmlBuilder(inputDict):
                 htmlStr += "<" + inputDict["tagName"] + " "
                 if "attributes" in inputDict:
                     for attr in inputDict['attributes']:
-                        inputDict['attributes'][attr] = re.sub("\"", "'", inputDict['attributes'][attr])
+                        if attr is "charset":
+                            inputDict["attributes"][attr] = "test"
+                        else:
+                            inputDict["attributes"][attr] = re.sub("\"", "'", inputDict["attributes"][attr])
+
                         htmlStr += attr + "=\"" + inputDict['attributes'][attr] + "\" "
 
                 if "id" in inputDict:
@@ -54,6 +58,7 @@ def htmlBuilder(inputDict):
                 htmlStr = htmlStr + "</" + inputDict["tagName"] + ">"
 
     htmlStr += "\n"
+
     return htmlStr
 
 
